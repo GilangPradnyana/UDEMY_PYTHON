@@ -1,0 +1,10 @@
+Line 011: Practice is the best way to master programming concepts.
+Line 012: File handling includes reading, writing, appending, and more.
+Line 013: You can also work with binary files if needed later.
+Line 014: For now we focus on plain text files only.
+Line 015: This is line number fifteen of our test file.
+Line 016: Keep going until we have enough lines for good testing.
+Line 017: Splitting every 10 lines should create multiple parts.
+Line 018: Splitting every 5 lines will create even more files.
+Line 019: Debugging becomes easier when you have a large sample.
+Line 020: Always check the total number of lines first.

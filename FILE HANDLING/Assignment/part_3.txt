@@ -1,0 +1,10 @@
+Line 021: Using range with a step is very useful here.
+Line 022: Slicing a list helps us get chunks of data.
+Line 023: f-strings make creating filenames clean and easy.
+Line 024: writelines() is perfect for writing multiple lines at once.
+Line 025: Don't forget to increase the file_number each time.
+Line 026: This is another line just to make the file longer.
+Line 027: Python is widely used in data science and automation.
+Line 028: File operations are fundamental in almost every project.
+Line 029: We can also split files based on size instead of lines.
+Line 030: But for now we are focusing on splitting by lines.

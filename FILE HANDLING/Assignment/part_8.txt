@@ -1,0 +1,10 @@
+Line 071: You can also combine splitting with other operations.
+Line 072: For example count words in each part after splitting.
+Line 073: Or search and replace text in every generated file.
+Line 074: The possibilities become interesting very quickly.
+Line 075: This is the seventy-fifth line of destination.txt.
+Line 076: Adding more sample sentences for realism.
+Line 077: The weather is nice today and the sky is clear.
+Line 078: Programming can be fun when you understand the basics.
+Line 079: Take your time and experiment with the code.
+Line 080: Change values, break things, then fix them again.

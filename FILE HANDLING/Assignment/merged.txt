@@ -1,0 +1,14 @@
+Hi my name is Gilang
+Hai this is my new character using append
+Hai this is my new character using append
+Hai this is my new character using append
+Hai this is my new character using append
+Hai this is my new character using append
+Hai this is my new character using append
+Hai this is my new character using append
+Hai this is my new character using append
+file 1
+file 2
+file 3
+file 4
+file 5

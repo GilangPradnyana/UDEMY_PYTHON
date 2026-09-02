@@ -1,0 +1,100 @@
+Line 001: This is a sample line for testing file splitting in Python.
+Line 002: Learning file handling is very important for beginners.
+Line 003: We are creating a large text file for debugging purposes.
+Line 004: Python makes working with files quite simple and powerful.
+Line 005: This line helps us test the split_file function properly.
+Line 006: Counting lines, words, and characters is a common task.
+Line 007: Merging and splitting files are useful real-world skills.
+Line 008: Always remember to use the with statement when opening files.
+Line 009: Encoding utf-8 is recommended for most text files.
+Line 010: Let's continue adding more lines so the file becomes bigger.
+Line 011: Practice is the best way to master programming concepts.
+Line 012: File handling includes reading, writing, appending, and more.
+Line 013: You can also work with binary files if needed later.
+Line 014: For now we focus on plain text files only.
+Line 015: This is line number fifteen of our test file.
+Line 016: Keep going until we have enough lines for good testing.
+Line 017: Splitting every 10 lines should create multiple parts.
+Line 018: Splitting every 5 lines will create even more files.
+Line 019: Debugging becomes easier when you have a large sample.
+Line 020: Always check the total number of lines first.
+Line 021: Using range with a step is very useful here.
+Line 022: Slicing a list helps us get chunks of data.
+Line 023: f-strings make creating filenames clean and easy.
+Line 024: writelines() is perfect for writing multiple lines at once.
+Line 025: Don't forget to increase the file_number each time.
+Line 026: This is another line just to make the file longer.
+Line 027: Python is widely used in data science and automation.
+Line 028: File operations are fundamental in almost every project.
+Line 029: We can also split files based on size instead of lines.
+Line 030: But for now we are focusing on splitting by lines.
+Line 031: Adding more content so you can test properly.
+Line 032: The quick brown fox jumps over the lazy dog.
+Line 033: Pack my box with five dozen liquor jugs.
+Line 034: How vexingly quick daft zebras jump.
+Line 035: Sphinx of black quartz, judge my vow.
+Line 036: This is line thirty-six of the sample file.
+Line 037: Keep practicing and you will improve fast.
+Line 038: Reading documentation is also very helpful.
+Line 039: Try changing the lines_per_file value and observe.
+Line 040: Small values create more files, large values create fewer.
+Line 041: Always close files properly or use the with statement.
+Line 042: Errors like FileNotFoundError are common for beginners.
+Line 043: Using try-except can make your code more robust later.
+Line 044: This line is here to increase the total count.
+Line 045: Almost halfway to having a decent sized test file.
+Line 046: File splitting is useful when dealing with large logs.
+Line 047: It is also useful when you need to process data in chunks.
+Line 048: Many real programs work with very large text files.
+Line 049: Learning these techniques early is a good idea.
+Line 050: This is the fiftieth line of our destination.txt file.
+Line 051: Continuing to add more lines for better testing.
+Line 052: You can copy this whole block into your text editor.
+Line 053: Then save it as destination.txt in the same folder.
+Line 054: After that run your split_file function again.
+Line 055: Try splitting with 10 lines per file first.
+Line 056: Then try with 5 lines per file and compare results.
+Line 057: Check how many part_*.txt files are created.
+Line 058: Open a few of them to verify the content is correct.
+Line 059: This process helps you understand the algorithm better.
+Line 060: We are now at line sixty of the sample text.
+Line 061: Adding even more lines so the file feels large enough.
+Line 062: Debugging is an essential skill for every programmer.
+Line 063: Reading error messages carefully saves a lot of time.
+Line 064: Print statements are very useful during development.
+Line 065: Later you can learn proper logging techniques.
+Line 066: For now simple print() is perfectly fine.
+Line 067: This is line sixty-seven in the test file.
+Line 068: Keep going, we need a good amount of content.
+Line 069: File handling will appear in many future projects.
+Line 070: Especially when working with data or reports.
+Line 071: You can also combine splitting with other operations.
+Line 072: For example count words in each part after splitting.
+Line 073: Or search and replace text in every generated file.
+Line 074: The possibilities become interesting very quickly.
+Line 075: This is the seventy-fifth line of destination.txt.
+Line 076: Adding more sample sentences for realism.
+Line 077: The weather is nice today and the sky is clear.
+Line 078: Programming can be fun when you understand the basics.
+Line 079: Take your time and experiment with the code.
+Line 080: Change values, break things, then fix them again.
+Line 081: That is one of the best ways to learn.
+Line 082: We are approaching line eighty-two now.
+Line 083: Almost ready for a solid testing session.
+Line 084: A few more lines and the file will be good.
+Line 085: This content should be enough for most tests.
+Line 086: You can always duplicate these lines if you need more.
+Line 087: Just copy a block and paste it several times.
+Line 088: That is an easy way to make a really big file.
+Line 089: For now this size should work well.
+Line 090: Line ninety has been reached successfully.
+Line 091: Only a few more lines left in this sample.
+Line 092: Thank you for practicing file handling carefully.
+Line 093: You are making good progress step by step.
+Line 094: Keep asking questions whenever something is unclear.
+Line 095: That is the fastest way to improve your skills.
+Line 096: This is line ninety-six of the test document.
+Line 097: We are getting very close to the end now.
+Line 098: Just two more lines after this one.
+Line 099: This is the second last line of the sample.
+Line 100: This is the final line of destination.txt for testing.

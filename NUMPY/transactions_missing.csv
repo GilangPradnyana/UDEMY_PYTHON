@@ -1,0 +1,16 @@
+Date,Category,Value,Product,Sales,Region
+2026-01-05,Electronics,19.99,Wireless Mouse,3,North America
+2026-01-05,Kitchen,12.5,Coffee Mug,2,
+2026-01-06,Electronics,,USB-C Cable,5,Europe
+2026-01-06,Stationery,3.25,Notebook,,North America
+2026-01-07,Home Office,34.0,Desk Lamp,1,Asia
+,Electronics,49.99,Bluetooth Speaker,2,North America
+2026-01-08,Sports,15.0,Water Bottle,4,
+2026-01-09,Accessories,,Backpack,1,North America
+2026-01-10,Electronics,29.99,Keyboard,,Asia
+2026-01-10,Stationery,6.75,Pens (Pack of 12),3,Europe
+2026-01-11,Home Office,149.0,Desk Chair,1,North America
+,Accessories,12.99,Smartphone Case,6,Asia
+2026-01-12,Electronics,199.0,Monitor,1,North America
+2026-01-13,Fitness,22.0,Yoga Mat,2,Europe
+2026-01-14,Grocery,8.5,Coffee Beans,4,North America

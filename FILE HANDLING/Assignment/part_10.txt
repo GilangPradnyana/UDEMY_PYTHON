@@ -1,0 +1,10 @@
+Line 091: Only a few more lines left in this sample.
+Line 092: Thank you for practicing file handling carefully.
+Line 093: You are making good progress step by step.
+Line 094: Keep asking questions whenever something is unclear.
+Line 095: That is the fastest way to improve your skills.
+Line 096: This is line ninety-six of the test document.
+Line 097: We are getting very close to the end now.
+Line 098: Just two more lines after this one.
+Line 099: This is the second last line of the sample.
+Line 100: This is the final line of destination.txt for testing.

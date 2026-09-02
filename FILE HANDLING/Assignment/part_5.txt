@@ -1,0 +1,10 @@
+Line 041: Always close files properly or use the with statement.
+Line 042: Errors like FileNotFoundError are common for beginners.
+Line 043: Using try-except can make your code more robust later.
+Line 044: This line is here to increase the total count.
+Line 045: Almost halfway to having a decent sized test file.
+Line 046: File splitting is useful when dealing with large logs.
+Line 047: It is also useful when you need to process data in chunks.
+Line 048: Many real programs work with very large text files.
+Line 049: Learning these techniques early is a good idea.
+Line 050: This is the fiftieth line of our destination.txt file.

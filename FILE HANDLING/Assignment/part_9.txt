@@ -1,0 +1,10 @@
+Line 081: That is one of the best ways to learn.
+Line 082: We are approaching line eighty-two now.
+Line 083: Almost ready for a solid testing session.
+Line 084: A few more lines and the file will be good.
+Line 085: This content should be enough for most tests.
+Line 086: You can always duplicate these lines if you need more.
+Line 087: Just copy a block and paste it several times.
+Line 088: That is an easy way to make a really big file.
+Line 089: For now this size should work well.
+Line 090: Line ninety has been reached successfully.

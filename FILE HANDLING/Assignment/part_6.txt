@@ -1,0 +1,10 @@
+Line 051: Continuing to add more lines for better testing.
+Line 052: You can copy this whole block into your text editor.
+Line 053: Then save it as destination.txt in the same folder.
+Line 054: After that run your split_file function again.
+Line 055: Try splitting with 10 lines per file first.
+Line 056: Then try with 5 lines per file and compare results.
+Line 057: Check how many part_*.txt files are created.
+Line 058: Open a few of them to verify the content is correct.
+Line 059: This process helps you understand the algorithm better.
+Line 060: We are now at line sixty of the sample text.

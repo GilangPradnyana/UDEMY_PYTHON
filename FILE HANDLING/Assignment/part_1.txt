@@ -1,0 +1,10 @@
+Line 001: This is a sample line for testing file splitting in Python.
+Line 002: Learning file handling is very important for beginners.
+Line 003: We are creating a large text file for debugging purposes.
+Line 004: Python makes working with files quite simple and powerful.
+Line 005: This line helps us test the split_file function properly.
+Line 006: Counting lines, words, and characters is a common task.
+Line 007: Merging and splitting files are useful real-world skills.
+Line 008: Always remember to use the with statement when opening files.
+Line 009: Encoding utf-8 is recommended for most text files.
+Line 010: Let's continue adding more lines so the file becomes bigger.
